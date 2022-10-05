@@ -3,9 +3,9 @@ Soy Graduado en Ingeniería Informática por la Universidad Politécnica de Madr
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pablomorenom) 
-[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?logo=notion&logoColor=white)](https://quill-spark-3af.notion.site/CV-Pablo-Moreno-Mart-n-68686053b8e94ec2bab3244ed01616a6)
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/pablomorenomartin) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pablomorenom) 
+[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://quill-spark-3af.notion.site/CV-Pablo-Moreno-Mart-n-68686053b8e94ec2bab3244ed01616a6)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/pablomorenomartin) 
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -23,6 +23,15 @@ Soy Graduado en Ingeniería Informática por la Universidad Politécnica de Madr
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+![Git](https://img.shields.io/badge/-Git-red?style=for-the-badge&logo=git&logoColor=white)
+![VisualStudioCode](https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Xcode](https://img.shields.io/badge/-Xcode-informational?style=for-the-badge&logo=xcode&logoColor=white)
+![AndroidStudio](https://img.shields.io/badge/-Android%20Studio-green?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Eclipse](https://img.shields.io/badge/-Eclipse-blueviolet?style=for-the-badge&logo=eclipse&logoColor=white)
+![NetBeans](https://img.shields.io/badge/-NetBeans-orange?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+![JustInMind](https://img.shields.io/badge/-JustInMind-inactive?style=for-the-badge&logo=justinmind&logoColor=white)
+![MicrosoftOffice](https://img.shields.io/badge/-Microsoft%20Office-blue?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
